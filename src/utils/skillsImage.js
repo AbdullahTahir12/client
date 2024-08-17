@@ -167,7 +167,7 @@ export const skillsImage = (skill) => {
       return deno;
     case "django":
       return django;
-    case "Firebase":
+    case "firebase":
       return Firebase;
     case "gimp":
       return gimp;
@@ -183,7 +183,7 @@ export const skillsImage = (skill) => {
       return nginx;
     case "numpy":
       return numpy;
-    case "NodeJS":
+    case "nodejs":
       return NodeJS;
     case "opencv":
       return opencv;
