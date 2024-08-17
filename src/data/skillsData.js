@@ -7,10 +7,10 @@ export const skillsData = [
   "Next JS",
   "MongoDB",
   "MySQL",
-  "nodejs",
+  "NodeJS",
   "Git",
   "MaterialUI",
-  "firebase",
+  "Firebase",
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

@@ -42,7 +42,7 @@ import adobeaudition from "../assets/svg/skills/adobeaudition.svg";
 import aws from "../assets/svg/skills/aws.svg";
 import deno from "../assets/svg/skills/deno.svg";
 import django from "../assets/svg/skills/django.svg";
-import firebase from "../assets/svg/skills/firebase.svg";
+import Firebase from "../assets/svg/skills/firebase.svg";
 import gimp from "../assets/svg/skills/gimp.svg";
 import git from "../assets/svg/skills/git.svg";
 import graphql from "../assets/svg/skills/graphql.svg";
@@ -50,7 +50,7 @@ import lightroom from "../assets/svg/skills/lightroom.svg";
 import materialui from "../assets/svg/skills/materialui.svg";
 import nginx from "../assets/svg/skills/nginx.svg";
 import numpy from "../assets/svg/skills/numpy.svg";
-import nodejs from "../assets/svg/skills/nodejs.svg";
+import NodeJS from "../assets/svg/skills/nodejs.svg";
 import opencv from "../assets/svg/skills/opencv.svg";
 import premierepro from "../assets/svg/skills/premierepro.svg";
 import pytorch from "../assets/svg/skills/pytorch.svg";
@@ -167,8 +167,8 @@ export const skillsImage = (skill) => {
       return deno;
     case "django":
       return django;
-    case "firebase":
-      return firebase;
+    case "Firebase":
+      return Firebase;
     case "gimp":
       return gimp;
     case "git":
@@ -183,8 +183,8 @@ export const skillsImage = (skill) => {
       return nginx;
     case "numpy":
       return numpy;
-    case "nodejs":
-      return nodejs;
+    case "NodeJS":
+      return NodeJS;
     case "opencv":
       return opencv;
     case "premiere pro":
